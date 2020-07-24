@@ -9,9 +9,12 @@ GestionBancaire est une application ayant les fonctionnalités suivantes:
 * Les quatres exceptions suivantes sont gérées par l'application:
 
      °FraisOuvException: Elle est levée si les frais d'ouverture sont inférieurs à 5000 F CFA.
+     
      °CinException: Elle est levée si la longueur du n° de la carte d'identité nationale est inférieure à 13.
+     
      °SitMatException: Elle est levée si la situation matrimoniale n'est pas compris dans la liste
       suivante (marie, celibataire, divorce).
+      
      °AgioException: Elle est levée si l'agio est supérieur à 2000 F CFA
 	
                                        **************************************************** 
