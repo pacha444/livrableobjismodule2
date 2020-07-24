@@ -1,0 +1,5 @@
+edu.gestionbancaire.domaine
+edu.gestionbancaire.exceptions
+edu.gestionbancaire.presentation
+edu.gestionbancaire.service
+edu.gestionbancaire.thread
